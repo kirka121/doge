@@ -7,6 +7,11 @@ gem 'rails-api'
 
 gem 'spring', :group => :development
 
+gem 'rspec-rails'
+
+gem 'sass-rails'
+
+gem 'compass'
 
 gem 'pg'
 
